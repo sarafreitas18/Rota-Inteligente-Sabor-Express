@@ -67,7 +67,9 @@ Para aprimorar a solução, as seguintes melhorias são sugeridas:
 - Caching de Rotas: Implementar um sistema de cache para rotas frequentemente solicitadas, melhorando a performance para cenários repetitivos.
 
   INSTRUÇÕES PARA RODAR O PROJETO:
+  
   cmd:
+  
   cd C:\seu diretorio do projeto\rota-inteligente_-sabor-express.zip
 
   npm install
