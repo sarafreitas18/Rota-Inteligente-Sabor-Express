@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rota Inteligente: Sabor Express",
+  "description": "Uma aplicação web interativa que otimiza rotas de entrega usando algoritmos de IA como K-Means para clustering e Heurística do Vizinho Mais Próximo para roteamento, visualizando os resultados em um mapa.",
+  "requestFramePermissions": []
+}
