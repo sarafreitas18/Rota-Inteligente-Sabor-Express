@@ -69,5 +69,7 @@ Para aprimorar a solução, as seguintes melhorias são sugeridas:
   INSTRUÇÕES PARA RODAR O PROJETO:
   cmd:
   cd C:\seu diretorio do projeto\rota-inteligente_-sabor-express.zip
+
   npm install
+  
   npm run dev
